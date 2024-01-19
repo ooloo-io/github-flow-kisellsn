@@ -8,7 +8,7 @@ Visit [ooloo.io](https://ooloo.io/project/github-flow) for more information.
 
 To install the dependencies run
 
-```
+``` 
 npm install
 ```
 
